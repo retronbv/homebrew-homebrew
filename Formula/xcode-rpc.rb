@@ -1,4 +1,4 @@
-class Xcoderpc < Formula
+class XcodeRpc < Formula
   desc "Discord Rich Presence client for Xcode"
   homepage "https://github.com/retronbv/xcode-rpc"
   url "https://github.com/retronbv/xcode-rpc/releases/latest/download/xcode-rpc.tar.gz"
